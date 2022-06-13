@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sivaram2505.github.io/csb-s0rl4v/static/css/main.7be4140f.chunk.css",
+    "main.js": "https://sivaram2505.github.io/csb-s0rl4v/static/js/main.dc234b1f.chunk.js",
+    "main.js.map": "https://sivaram2505.github.io/csb-s0rl4v/static/js/main.dc234b1f.chunk.js.map",
+    "runtime-main.js": "https://sivaram2505.github.io/csb-s0rl4v/static/js/runtime-main.fc7e98cc.js",
+    "runtime-main.js.map": "https://sivaram2505.github.io/csb-s0rl4v/static/js/runtime-main.fc7e98cc.js.map",
+    "static/js/2.0fd3306a.chunk.js": "https://sivaram2505.github.io/csb-s0rl4v/static/js/2.0fd3306a.chunk.js",
+    "static/js/2.0fd3306a.chunk.js.map": "https://sivaram2505.github.io/csb-s0rl4v/static/js/2.0fd3306a.chunk.js.map",
+    "index.html": "https://sivaram2505.github.io/csb-s0rl4v/index.html",
+    "static/css/main.7be4140f.chunk.css.map": "https://sivaram2505.github.io/csb-s0rl4v/static/css/main.7be4140f.chunk.css.map",
+    "static/js/2.0fd3306a.chunk.js.LICENSE.txt": "https://sivaram2505.github.io/csb-s0rl4v/static/js/2.0fd3306a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc7e98cc.js",
+    "static/js/2.0fd3306a.chunk.js",
+    "static/css/main.7be4140f.chunk.css",
+    "static/js/main.dc234b1f.chunk.js"
+  ]
+}
